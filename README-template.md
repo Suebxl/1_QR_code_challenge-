@@ -9,8 +9,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
+![Capture d’écran 2022-08-15 à 18 52 17](https://user-images.githubusercontent.com/73802863/185251584-1c53b06a-0ac2-441f-bff7-ca00b83a01fb.png)
 
 ### Links
+https://suebxl.github.io/challenges_frontend_mentor/
 
 ## My process
 
@@ -19,11 +21,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - display: flex;
-- CSS Grid
+
 
 
 ### What I learned
-
+-create a git repository
 
 ### Continued development
 
